@@ -1,6 +1,6 @@
-baseURL = 'https://armur.ai/top-10'
+baseURL = 'https://armur.ai/website-security'
 languageCode = 'en-us'
-title = 'Armur Top 10'
+title = 'Website Security'
 contentDir = "content"
 enableEmoji = true
 enableGitInfo = true # N.B. .GitInfo does not currently function with git submodule content directories
@@ -62,7 +62,7 @@ enableGitInfo = true # N.B. .GitInfo does not currently function with git submod
         prismTheme      = "solarized-light"                           # (optional) - Set theme for PrismJS. Options include: lotusdocs (default), solarized-light, twilight, lucario
 
         # gitinfo
-        repoURL         = "https://github.com/Armur-Ai/armur-blog-top10"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
+        repoURL         = "https://github.com/Armur-Ai/armur-blog-websec"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
         repoBranch      = "release"
         editPage        = true                                # enable 'Edit this page' feature - default false
         lastMod         = true                                # enable 'Last modified' date on pages - default false
