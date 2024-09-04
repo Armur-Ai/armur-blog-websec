@@ -1,5 +1,5 @@
 ---
 taxonomyCloud: []
-title: Website Security
+title: Web Security
 weight: 20
 ---
