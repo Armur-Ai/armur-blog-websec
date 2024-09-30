@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reconnaissance on Website Security</title>
+    <link>http://localhost:1313/website-security/docs/recon/</link>
+    <description>Recent content in Reconnaissance on Website Security</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/website-security/docs/recon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source Intelligence (OSINT) Gathering: Building Target Profiles with theHarvester, Maltego, and SpiderFoot</title>
+      <link>http://localhost:1313/website-security/docs/recon/recon/open-source-intelligence-gathering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/recon/recon/open-source-intelligence-gathering/</guid>
+      <description>Introduction linkOpen Source Intelligence (OSINT) is the practice of collecting information from publicly available sources to gain insights into a target. This tutorial explores OSINT techniques and tools like theHarvester, Maltego, and SpiderFoot to gather information about individuals, organizations, or systems for security assessments, investigations, or competitive intelligence.&#xA;What is OSINT? linkOSINT involves gathering information from sources like:&#xA;Search engines (Google, Bing, DuckDuckGo) Social media platforms (LinkedIn, Twitter, Facebook) Public databases (Whois, Shodan) Websites (company websites, blogs, forums) Dark web resources theHarvester linktheHarvester is a powerful OSINT tool that gathers information about email addresses, subdomains, hosts, and employee names from various sources.</description>
+    </item>
+    <item>
+      <title>Website &amp; DNS Enumeration: Uncovering Subdomains and Mirroring Websites with dig, nslookup, Sublist3r, and More</title>
+      <link>http://localhost:1313/website-security/docs/recon/recon/website-and-dns-enumeration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/recon/recon/website-and-dns-enumeration/</guid>
+      <description>Introduction linkThis tutorial covers essential techniques for website and DNS enumeration, including DNS enumeration with dig, nslookup, and Fierce, subdomain discovery with Sublist3r and Amass, and website mirroring with HTTrack and Wget. These techniques are crucial for security assessments, reconnaissance, and understanding the scope of a target web application.&#xA;DNS Enumeration linkDNS (Domain Name System) is a hierarchical database that translates domain names (e.g., google.com) into IP addresses. DNS enumeration involves querying DNS servers to gather information about a target domain, such as:</description>
+    </item>
+  </channel>
+</rss>

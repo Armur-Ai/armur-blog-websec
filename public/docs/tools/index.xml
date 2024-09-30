@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools for Web-Sec on Website Security</title>
+    <link>http://localhost:1313/website-security/docs/tools/</link>
+    <description>Recent content in Tools for Web-Sec on Website Security</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/website-security/docs/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BeEF (Browser Exploitation Framework)</title>
+      <link>http://localhost:1313/website-security/docs/tools/tools/beef/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/tools/tools/beef/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of cybersecurity, web browsers have become a critical attack vector for malicious actors. As our digital lives increasingly revolve around these gateways to the internet, it&amp;rsquo;s crucial for security professionals to understand and mitigate potential vulnerabilities. Enter BeEF, the Browser Exploitation Framework – a powerful tool that has revolutionized the way we approach web browser security testing.&#xA;In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of BeEF, exploring its capabilities, applications, and implications for both offensive and defensive security.</description>
+    </item>
+    <item>
+      <title>Mastering Burp Suite: The Ultimate Guide</title>
+      <link>http://localhost:1313/website-security/docs/tools/tools/mastering-burp-suite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/tools/tools/mastering-burp-suite/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of cybersecurity, web applications have become a prime target for malicious actors. As organizations increasingly rely on web-based services, the need for robust security testing has never been more critical. Enter Burp Suite, a powerful and versatile toolkit that has revolutionized the way security professionals approach web application penetration testing.&#xA;In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of Burp Suite, exploring its features, capabilities, and real-world applications.</description>
+    </item>
+    <item>
+      <title>OWASP ZAP (Zed Attack Proxy)</title>
+      <link>http://localhost:1313/website-security/docs/tools/tools/owasp-zap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/tools/tools/owasp-zap/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s interconnected digital landscape, web application security has become more critical than ever. With cyber threats evolving at an alarming rate, organizations need robust tools to identify and mitigate vulnerabilities in their web applications. Enter OWASP ZAP (Zed Attack Proxy) – a powerful, open-source security testing tool that has revolutionized the way we approach web application security.&#xA;In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of OWASP ZAP, exploring its features, capabilities, and real-world applications.</description>
+    </item>
+    <item>
+      <title>SQLNinja</title>
+      <link>http://localhost:1313/website-security/docs/tools/tools/sqlninja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/tools/tools/sqlninja/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of cybersecurity, SQL injection attacks remain one of the most persistent and dangerous threats to web applications. As organizations strive to protect their digital assets, security professionals and ethical hackers need powerful tools to identify and mitigate these vulnerabilities. Enter SQLNinja, a comprehensive and versatile tool designed to detect, exploit, and assess SQL injection flaws in web applications.&#xA;In this in-depth guide, we&amp;rsquo;ll explore the capabilities of SQLNinja, its significance in the realm of web application security, and how it can be effectively utilized to enhance your penetration testing and vulnerability assessment processes.</description>
+    </item>
+    <item>
+      <title>WPScan: The Ultimate WordPress Security Scanner</title>
+      <link>http://localhost:1313/website-security/docs/tools/tools/wpscan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/tools/tools/wpscan/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of cybersecurity, WordPress websites have become a prime target for hackers and malicious actors. With over 40% of all websites on the internet powered by WordPress, it&amp;rsquo;s crucial for website owners, developers, and security professionals to have robust tools at their disposal to protect these digital assets. Enter WPScan, an open-source WordPress security scanner that has revolutionized the way we approach WordPress security.&#xA;In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of WPScan, exploring its features, capabilities, and practical applications.</description>
+    </item>
+  </channel>
+</rss>

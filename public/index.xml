@@ -1,11 +1,130 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Security Fundamentals</title>
-    <link>http://localhost:1313/security-fundamentals/</link>
-    <description>Recent content on Security Fundamentals</description>
+    <title>Website Security</title>
+    <link>http://localhost:1313/website-security/</link>
+    <description>Recent content on Website Security</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/security-fundamentals/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/website-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reconnaissance: The First Step</title>
+      <link>http://localhost:1313/website-security/docs/introduction/introduction/reconnaissance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/introduction/introduction/reconnaissance/</guid>
+      <description>Introduction linkIn the world of cybersecurity, knowledge is power. And when it comes to ethical hacking, the first and most crucial step in gaining that knowledge is reconnaissance. This initial phase of information gathering sets the stage for all subsequent actions, making it an essential skill for any aspiring ethical hacker or cybersecurity professional.&#xA;Imagine you&amp;rsquo;re a detective investigating a crime scene. Before diving into the evidence, you&amp;rsquo;d want to survey the area, talk to witnesses, and gather as much background information as possible.</description>
+    </item>
+    <item>
+      <title>Setting Up Your Web Security Lab</title>
+      <link>http://localhost:1313/website-security/docs/introduction/introduction/setting-up-your-web-sec-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/introduction/introduction/setting-up-your-web-sec-lab/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s interconnected digital world, web security has become a critical concern for businesses, governments, and individuals alike. As cyber threats continue to evolve and grow in sophistication, the demand for skilled web security professionals has never been higher. Whether you&amp;rsquo;re an aspiring ethical hacker, a curious developer, or a seasoned IT professional looking to expand your skillset, setting up your own web security lab is an essential step in mastering the art of web application security testing and defense.</description>
+    </item>
+    <item>
+      <title>Web Security 101: Understanding the Basics</title>
+      <link>http://localhost:1313/website-security/docs/introduction/introduction/web-security-101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/introduction/introduction/web-security-101/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s interconnected digital landscape, web security has become a critical concern for businesses, developers, and users alike. With cyber threats evolving at an alarming rate, understanding the fundamentals of web security is no longer optional—it&amp;rsquo;s essential. This comprehensive guide will take you on a journey through the world of web security, equipping you with the knowledge and tools to protect your digital assets and create safer online experiences.</description>
+    </item>
+    <item>
+      <title>BeEF (Browser Exploitation Framework)</title>
+      <link>http://localhost:1313/website-security/docs/tools/tools/beef/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/tools/tools/beef/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of cybersecurity, web browsers have become a critical attack vector for malicious actors. As our digital lives increasingly revolve around these gateways to the internet, it&amp;rsquo;s crucial for security professionals to understand and mitigate potential vulnerabilities. Enter BeEF, the Browser Exploitation Framework – a powerful tool that has revolutionized the way we approach web browser security testing.&#xA;In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of BeEF, exploring its capabilities, applications, and implications for both offensive and defensive security.</description>
+    </item>
+    <item>
+      <title>Breaking and Fixing Broken Authentication</title>
+      <link>http://localhost:1313/website-security/docs/auth/auth/breaking-and-fixing-authentication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/auth/auth/breaking-and-fixing-authentication/</guid>
+      <description>Introduction linkIn the digital age, where our lives are increasingly intertwined with online services, the importance of robust authentication systems cannot be overstated. Authentication is the cornerstone of cybersecurity, serving as the first line of defense against unauthorized access to sensitive information and critical systems. However, when authentication mechanisms are flawed or improperly implemented, they become a weak link in the security chain, exposing users and organizations to a myriad of risks.</description>
+    </item>
+    <item>
+      <title>Building Robust Authentication Systems</title>
+      <link>http://localhost:1313/website-security/docs/auth/auth/building-robust-authentication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/auth/auth/building-robust-authentication/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s digital landscape, where data breaches and cyber attacks are becoming increasingly common, building robust authentication systems is more critical than ever. Whether you&amp;rsquo;re developing a small web application or a large-scale enterprise system, the security of your users&amp;rsquo; accounts and sensitive information should be a top priority. This comprehensive guide will delve deep into the world of authentication, exploring both fundamental concepts and advanced techniques to help you create secure, user-friendly authentication systems.</description>
+    </item>
+    <item>
+      <title>Client-Side Storage Security</title>
+      <link>http://localhost:1313/website-security/docs/client/client/client-side-storage-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/client/client/client-side-storage-security/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s digital landscape, web applications are becoming increasingly sophisticated, often requiring the storage of user data directly in the browser. This client-side storage approach offers numerous benefits, such as improved performance, offline functionality, and reduced server load. However, it also introduces significant security challenges that developers must address to protect sensitive user information.&#xA;This comprehensive guide will delve into the world of client-side storage security, exploring various techniques and best practices to safeguard user data.</description>
+    </item>
+    <item>
+      <title>Cross-Site Scripting (XSS) Attacks Explained</title>
+      <link>http://localhost:1313/website-security/docs/client/client/cross-site-scripting-attacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/client/client/cross-site-scripting-attacks/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of web security, Cross-Site Scripting (XSS) attacks remain one of the most prevalent and dangerous threats to web applications. These attacks exploit vulnerabilities in web pages, allowing malicious actors to inject client-side scripts into web pages viewed by other users. The consequences of successful XSS attacks can be severe, ranging from data theft and session hijacking to defacement of websites and distribution of malware.&#xA;In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of XSS attacks, exploring their various types, detection methods, and mitigation strategies.</description>
+    </item>
+    <item>
+      <title>Mastering Burp Suite: The Ultimate Guide</title>
+      <link>http://localhost:1313/website-security/docs/tools/tools/mastering-burp-suite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/tools/tools/mastering-burp-suite/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of cybersecurity, web applications have become a prime target for malicious actors. As organizations increasingly rely on web-based services, the need for robust security testing has never been more critical. Enter Burp Suite, a powerful and versatile toolkit that has revolutionized the way security professionals approach web application penetration testing.&#xA;In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of Burp Suite, exploring its features, capabilities, and real-world applications.</description>
+    </item>
+    <item>
+      <title>OWASP ZAP (Zed Attack Proxy)</title>
+      <link>http://localhost:1313/website-security/docs/tools/tools/owasp-zap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/tools/tools/owasp-zap/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s interconnected digital landscape, web application security has become more critical than ever. With cyber threats evolving at an alarming rate, organizations need robust tools to identify and mitigate vulnerabilities in their web applications. Enter OWASP ZAP (Zed Attack Proxy) – a powerful, open-source security testing tool that has revolutionized the way we approach web application security.&#xA;In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of OWASP ZAP, exploring its features, capabilities, and real-world applications.</description>
+    </item>
+    <item>
+      <title>Securing RESTful APIs</title>
+      <link>http://localhost:1313/website-security/docs/server/server/securing-restful-apis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/server/server/securing-restful-apis/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s interconnected digital landscape, APIs (Application Programming Interfaces) serve as the backbone of modern web applications and services. Among these, RESTful APIs have become the de facto standard for building scalable and flexible web services. However, with great power comes great responsibility, and securing these APIs is paramount to protecting sensitive data and maintaining the integrity of your systems.&#xA;In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of securing RESTful APIs, exploring not only the fundamental concepts but also advanced techniques and best practices.</description>
+    </item>
+    <item>
+      <title>Securing the Browser: Content Security Policy</title>
+      <link>http://localhost:1313/website-security/docs/client/client/securing-the-browser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/client/client/securing-the-browser/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s digital landscape, web security is more critical than ever. With cyber threats evolving at an alarming rate, developers and website owners must employ robust security measures to protect their users and data. One powerful tool in the web security arsenal is the Content Security Policy (CSP). This blog post will dive deep into the world of CSP, exploring its importance, implementation, and best practices.&#xA;By the end of this comprehensive guide, you&amp;rsquo;ll have a thorough understanding of:</description>
+    </item>
+    <item>
+      <title>Server Hardening 101</title>
+      <link>http://localhost:1313/website-security/docs/server/server/server-hardening-101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/server/server/server-hardening-101/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s interconnected digital landscape, server security is not just a luxury—it&amp;rsquo;s a necessity. With cyber threats evolving at an alarming rate, the importance of server hardening cannot be overstated. Whether you&amp;rsquo;re running a small business website or managing a large-scale enterprise infrastructure, implementing robust security measures is crucial to protect your data, maintain user trust, and ensure business continuity.&#xA;In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of server hardening, exploring various techniques and best practices that will transform your server from a potential vulnerability into an impenetrable fortress.</description>
+    </item>
+    <item>
+      <title>Session Management Best Practices</title>
+      <link>http://localhost:1313/website-security/docs/auth/auth/session-management-best-practices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/auth/auth/session-management-best-practices/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of web security, session management stands as a critical cornerstone in protecting user data and maintaining the integrity of web applications. As cyber threats continue to grow in sophistication, implementing robust session management practices has become more crucial than ever. This comprehensive guide will delve deep into the world of session management, exploring best practices, common pitfalls, and cutting-edge techniques to ensure your web applications remain secure and trustworthy.</description>
+    </item>
+    <item>
+      <title>SQL Injection: From Novice to Ninja</title>
+      <link>http://localhost:1313/website-security/docs/server/server/sql-injection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/server/server/sql-injection/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of cybersecurity, SQL injection remains one of the most persistent and dangerous vulnerabilities plaguing web applications. Despite being well-known for decades, it continues to be a significant threat, ranking high on the OWASP Top 10 list of web application security risks. Whether you&amp;rsquo;re a budding developer, a seasoned programmer, or a cybersecurity enthusiast, understanding SQL injection is crucial for building secure applications and protecting sensitive data.</description>
+    </item>
+    <item>
+      <title>SQLNinja</title>
+      <link>http://localhost:1313/website-security/docs/tools/tools/sqlninja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/tools/tools/sqlninja/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of cybersecurity, SQL injection attacks remain one of the most persistent and dangerous threats to web applications. As organizations strive to protect their digital assets, security professionals and ethical hackers need powerful tools to identify and mitigate these vulnerabilities. Enter SQLNinja, a comprehensive and versatile tool designed to detect, exploit, and assess SQL injection flaws in web applications.&#xA;In this in-depth guide, we&amp;rsquo;ll explore the capabilities of SQLNinja, its significance in the realm of web application security, and how it can be effectively utilized to enhance your penetration testing and vulnerability assessment processes.</description>
+    </item>
+    <item>
+      <title>WPScan: The Ultimate WordPress Security Scanner</title>
+      <link>http://localhost:1313/website-security/docs/tools/tools/wpscan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/tools/tools/wpscan/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of cybersecurity, WordPress websites have become a prime target for hackers and malicious actors. With over 40% of all websites on the internet powered by WordPress, it&amp;rsquo;s crucial for website owners, developers, and security professionals to have robust tools at their disposal to protect these digital assets. Enter WPScan, an open-source WordPress security scanner that has revolutionized the way we approach WordPress security.&#xA;In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of WPScan, exploring its features, capabilities, and practical applications.</description>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Server-Side Security on Website Security</title>
+    <link>http://localhost:1313/website-security/docs/server/</link>
+    <description>Recent content in Server-Side Security on Website Security</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/website-security/docs/server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Securing RESTful APIs</title>
+      <link>http://localhost:1313/website-security/docs/server/server/securing-restful-apis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/server/server/securing-restful-apis/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s interconnected digital landscape, APIs (Application Programming Interfaces) serve as the backbone of modern web applications and services. Among these, RESTful APIs have become the de facto standard for building scalable and flexible web services. However, with great power comes great responsibility, and securing these APIs is paramount to protecting sensitive data and maintaining the integrity of your systems.&#xA;In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of securing RESTful APIs, exploring not only the fundamental concepts but also advanced techniques and best practices.</description>
+    </item>
+    <item>
+      <title>Server Hardening 101</title>
+      <link>http://localhost:1313/website-security/docs/server/server/server-hardening-101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/server/server/server-hardening-101/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s interconnected digital landscape, server security is not just a luxury—it&amp;rsquo;s a necessity. With cyber threats evolving at an alarming rate, the importance of server hardening cannot be overstated. Whether you&amp;rsquo;re running a small business website or managing a large-scale enterprise infrastructure, implementing robust security measures is crucial to protect your data, maintain user trust, and ensure business continuity.&#xA;In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of server hardening, exploring various techniques and best practices that will transform your server from a potential vulnerability into an impenetrable fortress.</description>
+    </item>
+    <item>
+      <title>SQL Injection: From Novice to Ninja</title>
+      <link>http://localhost:1313/website-security/docs/server/server/sql-injection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/server/server/sql-injection/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of cybersecurity, SQL injection remains one of the most persistent and dangerous vulnerabilities plaguing web applications. Despite being well-known for decades, it continues to be a significant threat, ranking high on the OWASP Top 10 list of web application security risks. Whether you&amp;rsquo;re a budding developer, a seasoned programmer, or a cybersecurity enthusiast, understanding SQL injection is crucial for building secure applications and protecting sensitive data.</description>
+    </item>
+  </channel>
+</rss>

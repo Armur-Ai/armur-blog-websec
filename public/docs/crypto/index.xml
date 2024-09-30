@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cryptography on Website Security</title>
+    <link>http://localhost:1313/website-security/docs/crypto/</link>
+    <description>Recent content in Cryptography on Website Security</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/website-security/docs/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Signatures, Certificates &amp; HTTPS: Understanding Website Security with OpenSSL, Keytool, sslyze, and testssl.sh</title>
+      <link>http://localhost:1313/website-security/docs/crypto/crypto/digital-signatures-certificates-https/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/crypto/crypto/digital-signatures-certificates-https/</guid>
+      <description>Introduction linkThis tutorial explores the concepts of digital signatures, certificates, and HTTPS, which are fundamental to website security. We&amp;rsquo;ll delve into their roles in ensuring data integrity, authenticity, and confidentiality. Additionally, we&amp;rsquo;ll explore tools like OpenSSL, Keytool, sslyze, and testssl.sh for creating, managing, and analyzing SSL/TLS configurations.&#xA;Digital Signatures linkDigital signatures are cryptographic mechanisms used to verify the authenticity and integrity of digital documents or messages. They ensure that the document originated from the claimed sender and hasn&amp;rsquo;t been tampered with.</description>
+    </item>
+    <item>
+      <title>Encryption &amp; Hashing Fundamentals: Securing Data with OpenSSL and GnuPG</title>
+      <link>http://localhost:1313/website-security/docs/crypto/crypto/securing-data-with-openssl-and-gnupg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/crypto/crypto/securing-data-with-openssl-and-gnupg/</guid>
+      <description>Introduction linkThis tutorial explores the fundamentals of encryption and hashing, two essential cryptographic techniques for securing data. We&amp;rsquo;ll delve into symmetric and asymmetric encryption algorithms, providing hands-on exercises with OpenSSL and GnuPG for encryption and decryption. Additionally, we&amp;rsquo;ll explore different hashing algorithms and their applications using tools like HashCalc and md5deep.&#xA;Encryption linkEncryption is the process of converting plaintext data into ciphertext, making it unreadable without the proper decryption key.</description>
+    </item>
+  </channel>
+</rss>

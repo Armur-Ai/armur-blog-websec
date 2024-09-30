@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Application Vulnerabilities on Website Security</title>
+    <link>http://localhost:1313/website-security/docs/vuln/</link>
+    <description>Recent content in Web Application Vulnerabilities on Website Security</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/website-security/docs/vuln/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authentication, Session Management &amp; Data Exposure: Breaking into Web Applications and Finding Hidden Data</title>
+      <link>http://localhost:1313/website-security/docs/vuln/vuln/authentication-session-management-and-data-exposure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/vuln/vuln/authentication-session-management-and-data-exposure/</guid>
+      <description>Introduction linkThis tutorial explores common web application vulnerabilities related to authentication, session management, and data exposure. We&amp;rsquo;ll delve into techniques for breaking weak authentication mechanisms, exploiting session management flaws, identifying and accessing sensitive data, and exploring security misconfigurations using tools like Hydra, Burp Suite, and Nessus.&#xA;Broken Authentication and Session Management linkWeak Authentication:&#xA;Default or easily guessable credentials: Attackers can gain access using default usernames and passwords or by brute-forcing weak passwords.</description>
+    </item>
+    <item>
+      <title>Injection Attacks: Understanding and Exploiting XSS and SQLi with Burp Suite and sqlmap</title>
+      <link>http://localhost:1313/website-security/docs/vuln/vuln/injection-attacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/vuln/vuln/injection-attacks/</guid>
+      <description>Introduction linkInjection attacks are a prevalent class of web application vulnerabilities that occur when untrusted data is sent to an interpreter as part of a command or query. This tutorial focuses on two common types of injection attacks: Cross-Site Scripting (XSS) and SQL Injection (SQLi). We&amp;rsquo;ll explore their mechanics, impact, and exploitation techniques using tools like Burp Suite and sqlmap.&#xA;Cross-Site Scripting (XSS) linkXSS vulnerabilities arise when user-supplied input is not properly sanitized and is reflected back to the browser.</description>
+    </item>
+  </channel>
+</rss>

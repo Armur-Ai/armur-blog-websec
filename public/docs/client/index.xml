@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Client-Side Security on Website Security</title>
+    <link>http://localhost:1313/website-security/docs/client/</link>
+    <description>Recent content in Client-Side Security on Website Security</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/website-security/docs/client/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Client-Side Storage Security</title>
+      <link>http://localhost:1313/website-security/docs/client/client/client-side-storage-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/client/client/client-side-storage-security/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s digital landscape, web applications are becoming increasingly sophisticated, often requiring the storage of user data directly in the browser. This client-side storage approach offers numerous benefits, such as improved performance, offline functionality, and reduced server load. However, it also introduces significant security challenges that developers must address to protect sensitive user information.&#xA;This comprehensive guide will delve into the world of client-side storage security, exploring various techniques and best practices to safeguard user data.</description>
+    </item>
+    <item>
+      <title>Cross-Site Scripting (XSS) Attacks Explained</title>
+      <link>http://localhost:1313/website-security/docs/client/client/cross-site-scripting-attacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/client/client/cross-site-scripting-attacks/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of web security, Cross-Site Scripting (XSS) attacks remain one of the most prevalent and dangerous threats to web applications. These attacks exploit vulnerabilities in web pages, allowing malicious actors to inject client-side scripts into web pages viewed by other users. The consequences of successful XSS attacks can be severe, ranging from data theft and session hijacking to defacement of websites and distribution of malware.&#xA;In this comprehensive guide, we&amp;rsquo;ll dive deep into the world of XSS attacks, exploring their various types, detection methods, and mitigation strategies.</description>
+    </item>
+    <item>
+      <title>Securing the Browser: Content Security Policy</title>
+      <link>http://localhost:1313/website-security/docs/client/client/securing-the-browser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/client/client/securing-the-browser/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s digital landscape, web security is more critical than ever. With cyber threats evolving at an alarming rate, developers and website owners must employ robust security measures to protect their users and data. One powerful tool in the web security arsenal is the Content Security Policy (CSP). This blog post will dive deep into the world of CSP, exploring its importance, implementation, and best practices.&#xA;By the end of this comprehensive guide, you&amp;rsquo;ll have a thorough understanding of:</description>
+    </item>
+  </channel>
+</rss>

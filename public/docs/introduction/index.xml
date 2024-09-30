@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction to Web Security on Website Security</title>
+    <link>http://localhost:1313/website-security/docs/introduction/</link>
+    <description>Recent content in Introduction to Web Security on Website Security</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/website-security/docs/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reconnaissance: The First Step</title>
+      <link>http://localhost:1313/website-security/docs/introduction/introduction/reconnaissance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/introduction/introduction/reconnaissance/</guid>
+      <description>Introduction linkIn the world of cybersecurity, knowledge is power. And when it comes to ethical hacking, the first and most crucial step in gaining that knowledge is reconnaissance. This initial phase of information gathering sets the stage for all subsequent actions, making it an essential skill for any aspiring ethical hacker or cybersecurity professional.&#xA;Imagine you&amp;rsquo;re a detective investigating a crime scene. Before diving into the evidence, you&amp;rsquo;d want to survey the area, talk to witnesses, and gather as much background information as possible.</description>
+    </item>
+    <item>
+      <title>Setting Up Your Web Security Lab</title>
+      <link>http://localhost:1313/website-security/docs/introduction/introduction/setting-up-your-web-sec-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/introduction/introduction/setting-up-your-web-sec-lab/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s interconnected digital world, web security has become a critical concern for businesses, governments, and individuals alike. As cyber threats continue to evolve and grow in sophistication, the demand for skilled web security professionals has never been higher. Whether you&amp;rsquo;re an aspiring ethical hacker, a curious developer, or a seasoned IT professional looking to expand your skillset, setting up your own web security lab is an essential step in mastering the art of web application security testing and defense.</description>
+    </item>
+    <item>
+      <title>Web Security 101: Understanding the Basics</title>
+      <link>http://localhost:1313/website-security/docs/introduction/introduction/web-security-101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website-security/docs/introduction/introduction/web-security-101/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s interconnected digital landscape, web security has become a critical concern for businesses, developers, and users alike. With cyber threats evolving at an alarming rate, understanding the fundamentals of web security is no longer optional—it&amp;rsquo;s essential. This comprehensive guide will take you on a journey through the world of web security, equipping you with the knowledge and tools to protect your digital assets and create safer online experiences.</description>
+    </item>
+  </channel>
+</rss>
