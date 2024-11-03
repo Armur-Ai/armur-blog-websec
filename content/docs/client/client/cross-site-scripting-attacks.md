@@ -1,6 +1,6 @@
 ---
 title: "Cross-Site Scripting (XSS) Attacks Explained"
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-websec/images/2.jpg"
 icon: "code"
 draft: false
 ---

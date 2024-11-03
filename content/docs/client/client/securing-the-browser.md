@@ -1,6 +1,6 @@
 ---
 title: "Securing the Browser: Content Security Policy"
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-websec/images/2.jpg"
 icon: "code"
 draft: false
 ---

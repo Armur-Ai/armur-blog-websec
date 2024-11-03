@@ -1,6 +1,6 @@
 ---
 title: "Reconnaissance: The First Step"
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-websec/images/3.jpg"
 icon: "code"
 draft: false
 weight: 97
